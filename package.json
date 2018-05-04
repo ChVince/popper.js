@@ -1,6 +1,6 @@
 {
-  "name": "popperjs-monorepo",
-  "version": "0.0.0",
+  "name": "lu-popper",
+  "version": "1.14.3",
   "license": "MIT",
   "private": true,
   "devDependencies": {

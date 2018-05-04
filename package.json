@@ -2,7 +2,7 @@
   "name": "lu-popper",
   "version": "1.14.3",
   "license": "MIT",
-  "private": true,
+  "private": false,
   "devDependencies": {
     "bundlesize": "^0.15.3",
     "jsdoc-to-markdown": "^3.0.0",
